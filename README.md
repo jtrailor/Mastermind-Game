@@ -14,5 +14,5 @@ Technologies:
 Python, Object Oriented Design, MVC Design Pattern, FileIO, Event Handling
 
 Results:
-An operating game that answers all components of the problem statement. Game is also replayable at the user's request. Please see attached photos of game operations!
+An operating game that answers all components of the problem statement. Game is also replayable at the user's request. Please see attached photos of the game in operation!
 
