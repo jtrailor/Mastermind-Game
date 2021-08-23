@@ -2,7 +2,7 @@
 Mastermind game implementation using Python's turtle framework.
 
 Problem:
-Create a playable Mastermind game where the user competes against the computer. Mastermind is a code breaking game, where the user tries to guess the correct sequence of four independent colors. This is out of six total colors. The game should take your inputted guess and if the guess is not correct, the game should return the appropriate visual clues. The game should also have a leaderboard that is read in from a text file. The file will be updated with the user's name and their consecutive number of wins.
+Create a playable Mastermind game where the user competes against the computer. Mastermind is a code breaking game, where the user tries to guess the correct sequence of four independent colors. This is out of six total colors. The game should take your inputted guess and if the guess is not correct, the game should return the appropriate visual clues. The game should also have a leaderboard that is read in from a text file. Leaderboard based on the lowest number of guesses to crack the code.
 
 Approach:
 Game was constructed using Python's turtle framework. Turtle allows for basic event handling along with simple visualizations. The framework was organized using the MVC design pattern. Additional classes for FileIO and various display based objects also incorporated into the program.
