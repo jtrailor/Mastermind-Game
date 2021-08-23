@@ -11,7 +11,7 @@ Challenges:
 This was my first object oriented design project using the MVC design pattern. Thus, I spent a lot of time refactoring code to ensure low-coupling and high-coehesion that is inherent to MVC design. In addition, it was also challenging to create and maintain the significant number of turtle generated objects across the program. This entailed creating multiple structures to hold, modify and return the various objects needed to run the game.
 
 Technologies:
-Python, Object Oriented Design, MVC Design Pattern, FileIO
+Python, Object Oriented Design, MVC Design Pattern, FileIO, Event Handling
 
 Results:
 An operating game that answers all components of the problem statement. Game is also replayable at the user's request. Please see attached photos of game operations!
